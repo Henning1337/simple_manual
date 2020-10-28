@@ -1,0 +1,11 @@
+Press and hold the power button to turn the device on or off.
+Press the power button to turn on or lock the screen.
+Tap the recents button to open the list of recent apps.
+Tap and hold the recents button to access additional options for the current
+screen.
+Press the home button to turn on the screen while the screen is locked.
+Press the home button to return to the Home screen.
+Press the home button twice to launch S Voice.
+Press and hold the home button to launch Google.
+Tap the back button to return to the previous screen.
+Press the volume button to adjust the device volume.
